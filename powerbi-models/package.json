@@ -1,0 +1,136 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "powerbi-models@^1.0.4",
+        "scope": null,
+        "escapedName": "powerbi-models",
+        "name": "powerbi-models",
+        "rawSpec": "^1.0.4",
+        "spec": ">=1.0.4 <2.0.0",
+        "type": "range"
+      },
+      "/home/junior/rails_projects/pbTest/node_modules/powerbi-client"
+    ]
+  ],
+  "_from": "powerbi-models@>=1.0.4 <2.0.0",
+  "_id": "powerbi-models@1.0.5",
+  "_inCache": true,
+  "_location": "/powerbi-models",
+  "_nodeVersion": "10.0.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/powerbi-models_1.0.5_1526476603875_0.002382373541125027"
+  },
+  "_npmUser": {
+    "name": "powerbi",
+    "email": "nugetpowerbi@microsoft.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "powerbi-models@^1.0.4",
+    "scope": null,
+    "escapedName": "powerbi-models",
+    "name": "powerbi-models",
+    "rawSpec": "^1.0.4",
+    "spec": ">=1.0.4 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/powerbi-client"
+  ],
+  "_resolved": "https://registry.npmjs.org/powerbi-models/-/powerbi-models-1.0.5.tgz",
+  "_shasum": "f04576f6594ce31ccea8a2736737b711bbd6e8c2",
+  "_shrinkwrap": null,
+  "_spec": "powerbi-models@^1.0.4",
+  "_where": "/home/junior/rails_projects/pbTest/node_modules/powerbi-client",
+  "author": {
+    "name": "Microsoft PowerBI Team"
+  },
+  "bugs": {
+    "url": "https://github.com/Microsoft/powerbi-models/issues"
+  },
+  "dependencies": {},
+  "description": "Contains JavaScript &amp; TypeScript object models for Microsoft Power BI JavaScript SDK. For each model there is a TypeScript interface, and a validation function to ensure and object is valid.",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-flatten": "^0.2.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-header": "^1.8.7",
+    "gulp-help": "^1.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-tslint": "^6.0.2",
+    "gulp-typedoc": "^2.0.0",
+    "gulp-uglify": "^1.5.4",
+    "jasmine-core": "^2.4.1",
+    "json-loader": "^0.5.4",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-coverage": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-spec-reporter": "0.0.26",
+    "moment": "^2.14.1",
+    "phantomjs-prebuilt": "^2.1.7",
+    "run-sequence": "^1.2.1",
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.14.0",
+    "typedoc": "^0.4.4",
+    "typescript": "^2.2.1",
+    "typings": "^1.3.2",
+    "webpack": "^1.13.2",
+    "webpack-stream": "^3.2.0",
+    "yargs": "^4.7.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dist": {
+    "integrity": "sha512-K+RvoSP3xTpLLkjs1DJC02xjp8vBqwdtgKTtDI70n5i7bHqjuNlepDBRPdpqmjfVFoS+k1qQcBYHrnxeBL53xw==",
+    "shasum": "f04576f6594ce31ccea8a2736737b711bbd6e8c2",
+    "tarball": "https://registry.npmjs.org/powerbi-models/-/powerbi-models-1.0.5.tgz",
+    "fileCount": 8,
+    "unpackedSize": 325110,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa/C89CRA9TVsSAnZWagAAyjUP/jHZEfJr9sevcL0q6zRW\nba3EjdOBAReMhP8qAE3r2kC2TxEqHQnbwfyAVx3MyHyk9Lkc/kAuTyFGJE7n\nXVPye1hs1kcuKeLWofFZi9rlr4TmTF2YmXoD3r/tFGIl2C8aoWH75RHFFkiy\naWTDLnQR+3QzuCJ8+G6IDQunaM2e3YtVFLa2fLNbDMD6IONCmJLd97421JX6\nohXSoB7CxiMQGSgy5/8n0qfZbCSRuCZS0H0tLaaub1tgD2HORIGmqkfiGuES\nQFLYm6wEQCZSeDaPZeVy6HH7r+Jpzu6Y5sWVJ2CT3MDk2iJOyIjYgoVGDSmq\nLQxCMEZy1efd6yAneRuslDomvZjft3+2NnfwAZKfggny3Z9j6/X88uTrpOBC\nvSxqwbPtx50hWM3ZFaMYnkzT8xljCD4Lb0TQ6xKW2TuSb0iR/CrP5B3vwcFm\n2yVGQ9KX6OkDJPpq5kXgxGxS9BDwL3oxb8xgVn4MFPlpHUo6D6shnj3AO6Q3\nWBdWOTugbgydpiELFcAxzf4MzzDA52YbyzO48bWgYWe5tzT29j57yUECNrYa\nz1CthI2+lsk2WruERCREGPBEfhbaK3RDqZQtBxFSSnWLEdzOLWBrCLjZ4OiN\nNCr/lKa6qLbA+JRO2b9gO6mVqJUyraW4ia7Veq+zvarHWOeFkZLGZvJfOCCM\nsUob\r\n=MRzA\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "files": [
+    "dist"
+  ],
+  "gitHead": "96e830e3a62715a56a64138bfb7b111e74015121",
+  "homepage": "https://github.com/Microsoft/powerbi-models#readme",
+  "keywords": [
+    "Microsoft",
+    "PowerBI",
+    "message",
+    "validation",
+    "json"
+  ],
+  "license": "MIT",
+  "main": "dist/models.js",
+  "maintainers": [
+    {
+      "name": "powerbi",
+      "email": "nugetpowerbi@microsoft.com"
+    }
+  ],
+  "name": "powerbi-models",
+  "optionalDependencies": {},
+  "publishConfig": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/powerbi-models.git"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "gulp": "gulp",
+    "prepublish": "typings install && gulp build",
+    "test": "gulp test",
+    "typings": "typings"
+  },
+  "typings": "dist/models.d.ts",
+  "version": "1.0.5"
+}
